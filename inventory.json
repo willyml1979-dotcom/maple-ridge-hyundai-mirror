@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Hyundai",
-  "generated_at": "2026-09-26T08:42:30",
+  "generated_at": "2026-10-08T14:40:46",
   "vehicle_count": 511,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,13 +18,16 @@
       "year": 2001,
       "make": "Dodge",
       "model": "RAM 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2012 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT6CEA52167",
       "stock": 14359518,
       "color": "Black",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ec2df7123a80.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2012-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2012-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -33,8 +36,10 @@
       "price_currency": "CAD",
       "year": 2012,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2012 Toyota RAV4 ",
@@ -49,7 +54,9 @@
       "year": 2012,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2013 Audi A5 ",
@@ -65,7 +72,9 @@
       "year": 2013,
       "make": "Audi",
       "model": "A5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2013 Audi TT RS ",
@@ -81,7 +90,9 @@
       "year": 2013,
       "make": "Audi",
       "model": "TT RS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2013 GMC Yukon ",
@@ -97,7 +108,9 @@
       "year": 2013,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Bobcat S630 ",
@@ -111,7 +124,9 @@
       "year": 2014,
       "make": "Bobcat",
       "model": "S630",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Chevrolet Cruze ",
@@ -126,7 +141,9 @@
       "year": 2014,
       "make": "Chevrolet",
       "model": "Cruze",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 GMC Sierra 1500 ",
@@ -142,13 +159,16 @@
       "year": 2014,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport Premium! Awdin British Columbia",
       "vin": "5XYZUDLB0EG197110",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport Premium",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3de879376db8.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2014-Hyundai-Santa_Fe_Sport-id13975911.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2014-Hyundai-Santa_Fe_Sport-id13975911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -158,14 +178,17 @@
       "odometer_km": 183834,
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Premium! Awdin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB0EG197110",
       "stock": 13975911,
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a9609dfedac3.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2014-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2014-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -174,8 +197,10 @@
       "price_currency": "CAD",
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 International TerraStar ",
@@ -190,7 +215,9 @@
       "year": 2014,
       "make": "International",
       "model": "TerraStar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Soul ",
@@ -206,7 +233,9 @@
       "year": 2014,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Pathfinder ",
@@ -222,7 +251,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 ",
@@ -238,7 +269,9 @@
       "year": 2014,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester ",
@@ -253,7 +286,9 @@
       "year": 2014,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Chevrolet Trax ",
@@ -269,7 +304,9 @@
       "year": 2015,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V ",
@@ -285,7 +322,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Civic Sedan ",
@@ -300,12 +339,15 @@
       "year": 2015,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Elantra Limitedin British Columbia",
       "vin": "KMHDH4AH3FU405255",
       "stock": "NUMBER",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/382d084fcb23.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Elantra-id14432424.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Elantra-id14432424.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -315,8 +357,10 @@
       "odometer_km": 155928,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Elantra Limitedin British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Elantra ",
@@ -331,13 +375,16 @@
       "year": 2015,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited LEATHER! SUNROOF! BACKUP CAMERA! POWER SEATS!in British Columbia",
       "vin": "5XYZUDLA5FG240008",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 2.0T Limited LEATHER",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ef861a046990.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Santa_Fe_Sport-id13752171.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Santa_Fe_Sport-id13752171.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -347,14 +394,17 @@
       "odometer_km": 109873,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited LEATHER! SUNROOF! BACKUP CAMERA! POWER SEATS!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA5FG240008",
       "stock": 13752171,
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/786ae0655535.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2015-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -363,8 +413,10 @@
       "price_currency": "CAD",
       "year": 2015,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Juke ",
@@ -380,7 +432,9 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 1500 ",
@@ -396,7 +450,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 3500 ",
@@ -412,7 +468,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester ",
@@ -428,7 +486,9 @@
       "year": 2015,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Acura MDX ",
@@ -444,7 +504,9 @@
       "year": 2016,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 BMW X5 ",
@@ -459,7 +521,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Chrysler 200 ",
@@ -474,7 +538,9 @@
       "year": 2016,
       "make": "Chrysler",
       "model": "200",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 ",
@@ -490,7 +556,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Ford Focus ",
@@ -506,7 +574,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "Focus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Honda CR-V ",
@@ -521,13 +591,16 @@
       "year": 2016,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent 5dr Auto GL ! Fuel Efficient 1.6L, Heated Seats, Bluetooth, Cruise Control, Keyless Entry, Hatchbackin British Columbia",
       "vin": "KMHCT5AE2GU292180",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "5dr Auto GL",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/2ff11b40beca.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Accent-id14354023.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Accent-id14354023.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -537,14 +610,17 @@
       "odometer_km": 22175,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Accent 5dr Auto GL ! Fuel Efficient 1.6L, Heated Seats, Bluetooth, Cruise Control, Keyless Entry, Hatchbackin British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent 2016 GL - compact, fuel-smart, and ready to make every drive a breeze!in British Columbia",
       "vin": "KMHCT5AE2GU292180",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2016 GL",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/850bd6c21f78.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Accent-id14398592.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Accent-id14398592.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -554,8 +630,10 @@
       "odometer_km": 22150,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Accent 2016 GL - compact, fuel-smart, and ready to make every drive a breeze!in British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent ",
@@ -571,13 +649,16 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra 4dr Sdn Auto GLS NO ACCIDENT! ONE OWNER! SUNROOF!in British Columbia",
       "vin": "KMHDH4AH9GU532187",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sdn Auto GLS NO ACCIDENT",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c41db299a72f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Elantra-id14205122.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Elantra-id14205122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,14 +668,17 @@
       "odometer_km": 122827,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Elantra 4dr Sdn Auto GLS NO ACCIDENT! ONE OWNER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
       "vin": "KMHDH4AH3GU492463",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "2016 GLS",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/53a3b96fa26e.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Elantra-id14370970.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Elantra-id14370970.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -604,8 +688,10 @@
       "odometer_km": 99826,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra ",
@@ -621,12 +707,15 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport Limited Adventurein British Columbia",
       "vin": "5XYZUDLA7GG364461",
       "stock": "NUMBER",
+      "trim": "Sport Limited Adventure",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/75bcdd30177d.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14132369.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14132369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -636,14 +725,17 @@
       "odometer_km": 159922,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Limited Adventurein British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
       "vin": "5XYZUDLA2GG321873",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 2.0T Limited FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/6deaa6a4e21d.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14210512.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14210512.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -653,14 +745,17 @@
       "odometer_km": 133391,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
       "vin": "5XYZUDLA5GG371862",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 2.0T Limited FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/77893a4a026a.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14292264.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14292264.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -670,14 +765,17 @@
       "odometer_km": 113198,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport Luxuryin British Columbia",
       "vin": "5XYZUDLB9GG358816",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Luxury",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/58a886f8149a.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14426663.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14426663.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -687,14 +785,17 @@
       "odometer_km": 170095,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Luxuryin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA7GG364461",
       "stock": 14132369,
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ceb7e7b895ce.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -703,8 +804,10 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sedona ",
@@ -720,7 +823,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sedona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sorento ",
@@ -735,7 +840,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Lincoln MKX ",
@@ -751,13 +858,16 @@
       "year": 2016,
       "make": "Lincoln",
       "model": "MKX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 MINI Cooper C ",
       "vin": "WMWZC5C5XGWU03796",
       "stock": 14426670,
       "color": "White",
+      "trim": "C",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/6c085b071b97.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2016-MINI-Cooper_C.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2016-MINI-Cooper_C.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -766,8 +876,10 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "MINI",
-      "model": "Cooper C",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Murano ",
@@ -782,7 +894,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 3500 ",
@@ -798,7 +912,9 @@
       "year": 2016,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru WRX ",
@@ -814,7 +930,9 @@
       "year": 2016,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Golf ",
@@ -829,7 +947,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Acura MDX ",
@@ -844,7 +964,9 @@
       "year": 2017,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Audi Q5 ",
@@ -860,7 +982,9 @@
       "year": 2017,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Cruze ",
@@ -876,7 +1000,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Cruze",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Spark ",
@@ -892,7 +1018,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Journey ",
@@ -908,7 +1036,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Edge ",
@@ -924,7 +1054,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -939,7 +1071,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Transit ",
@@ -954,7 +1088,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Acadia ",
@@ -969,7 +1105,9 @@
       "year": 2017,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -984,13 +1122,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Accent SE | Remote Keyless Entry | Cruise Control | Air Conditioning | Smartphone/USB Aux Input Jacksin British Columbia",
       "vin": "KMHCT5AE8HU348446",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/444ec1c8ae6d.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Accent-id14261548.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Accent-id14261548.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1000,8 +1141,10 @@
       "odometer_km": 87298,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Accent SE",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Accent ",
@@ -1017,13 +1160,16 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
       "vin": "5XYZUDLB2HG474425",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport SE LEATHER",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/685d30e163bd.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id13889690.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id13889690.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1033,13 +1179,16 @@
       "odometer_km": 123137,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport AWD 4dr 2.4L SE PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
       "vin": "5XYZUDLB6HG499442",
       "stock": "NUMBER",
+      "trim": "Sport SE",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/2a11a5b2ae95.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14066613.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14066613.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1049,14 +1198,17 @@
       "odometer_km": 139523,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.4L SE PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB6HG499442",
       "stock": 14066613,
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/097d28cf2315.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1065,14 +1217,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
       "vin": "KM8J3CA29HU443793",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/825ada506600.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14061776.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14061776.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1082,14 +1237,17 @@
       "odometer_km": 119890,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson 2017 Premium AWD - smart, dependable, and ready for every road, every season.in British Columbia",
       "vin": "KM8J3CA46HU591899",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "2017 Premium",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e0823f1ee7e9.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14121566.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14121566.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1099,13 +1257,16 @@
       "odometer_km": 207640,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson 2017 Premium AWD - smart, dependable, and ready for every road, every season.in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
       "vin": "KM8J3CA43HU490707",
       "stock": "NUMBER",
+      "trim": "2017 Premium",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d6b208bc0ca0.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14346069.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Hyundai-Tucson-id14346069.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1115,8 +1276,10 @@
       "odometer_km": 127939,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson ",
@@ -1132,7 +1295,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Cherokee ",
@@ -1148,7 +1313,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass ",
@@ -1164,7 +1331,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -1179,7 +1348,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Rio ",
@@ -1195,7 +1366,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sportage ",
@@ -1211,7 +1384,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Mitsubishi Mirage ",
@@ -1227,7 +1402,9 @@
       "year": 2017,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Qashqai ",
@@ -1242,7 +1419,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue ",
@@ -1258,13 +1437,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Versa Note ",
       "vin": "3N1CE2CP7HL371645",
       "stock": 14191834,
       "color": "Dark grey",
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c51fde1370ef.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2017-Nissan-Versa_Note.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2017-Nissan-Versa_Note.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1273,8 +1455,10 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Nissan",
-      "model": "Versa Note",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -1290,7 +1474,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Golf SportWagen ",
@@ -1305,7 +1491,9 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q3 ",
@@ -1321,7 +1509,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X1 ",
@@ -1337,7 +1527,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Buick Encore ",
@@ -1353,7 +1545,9 @@
       "year": 2018,
       "make": "Buick",
       "model": "Encore",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Dodge Charger ",
@@ -1368,7 +1562,9 @@
       "year": 2018,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape ",
@@ -1383,13 +1579,16 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 3500 HD ",
       "vin": "1GT42YEY1JF215801",
       "stock": 14333846,
       "color": "Mineral Metallic (GJB)",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/79b43a140135.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-GMC-Sierra_3500_HD.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1398,8 +1597,10 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Honda CR-V ",
@@ -1415,7 +1616,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Ridgeline ",
@@ -1430,13 +1633,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai IONIQ Electric Plus Limited Hatchback FULL LOAD! LEATHER! SUNROOF!in British Columbia",
       "vin": "KMHC75LD2JU083263",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Plus Limited Hatchback FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/8104226aca13.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus-id14365107.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus-id14365107.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,14 +1652,17 @@
       "odometer_km": 166134,
       "year": 2018,
       "make": "Hyundai",
-      "model": "IONIQ Electric Plus Limited Hatchback FULL LOAD! LEATHER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "IONIQ Electric",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai IONIQ Electric Plus ",
       "vin": "KMHC75LD2JU083263",
       "stock": 14365107,
       "color": "Blue",
+      "trim": "Plus",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/99f3719238f9.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1462,14 +1671,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "IONIQ Electric Plus",
-      "condition": "used"
+      "model": "IONIQ Electric",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona Essential! Awdin British Columbia",
       "vin": "KM8K1CAA6JU109423",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/eea036d07120.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Kona-id13975935.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Kona-id13975935.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1479,14 +1691,17 @@
       "odometer_km": 155261,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Kona Essential! Awdin British Columbia",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
       "vin": "KM8K6CAAXJU118028",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Luxury BLINDSPOT",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/cc655ec4ba28.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Kona-id14025053.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Kona-id14025053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1496,8 +1711,10 @@
       "odometer_km": 140077,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona ",
@@ -1513,13 +1730,16 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
       "vin": "5NMZU3LB3JH070832",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 2018",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e30b22c37e1a.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id13844373.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id13844373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1529,14 +1749,17 @@
       "odometer_km": 69936,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
       "vin": "5NMZUDLB0JH090736",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport Luxury HEATED LEATHER SEATS",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/15b0f5e169bd.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14129014.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14129014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1546,13 +1769,16 @@
       "odometer_km": 154611,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2.4L SE AWD PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
       "vin": "5XYZUDLB7JG544989",
       "stock": "NUMBER",
+      "trim": "Sport SE",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c53a4913c707.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14304625.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14304625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1562,14 +1788,17 @@
       "odometer_km": 140064,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4L SE AWD PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB7JG544989",
       "stock": 14304625,
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/84cf3ba9fa5f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1578,14 +1807,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe XL AWD Luxuryin British Columbia",
       "vin": "KM8SNDHF4JU290131",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "XL Luxury",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/1129996153cc.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_XL-id14408253.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_XL-id14408253.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1595,14 +1827,17 @@
       "odometer_km": 168330,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe XL AWD Luxuryin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe XL ",
       "vin": "KM8SNDHF4JU290131",
       "stock": 14408253,
       "color": "Silver",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/03af58bb905c.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_XL.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Santa_Fe_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1611,14 +1846,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe XL",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Sonata 2.4L GLS SUNROOF! LEATHER INTERIOR! BACKUP CAMERA! HEATED SEATS & STEERING WHEEL!in British Columbia",
       "vin": "5NPE34AF2JH663534",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GLS SUNROOF",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/5bed0bbae5d4.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Sonata-id14091977.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Sonata-id14091977.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1628,8 +1866,10 @@
       "odometer_km": 90080,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Sonata 2.4L GLS SUNROOF! LEATHER INTERIOR! BACKUP CAMERA! HEATED SEATS & STEERING WHEEL!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Sonata ",
@@ -1645,12 +1885,15 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
       "vin": "KM8J3CA27JU743273",
       "stock": "NUMBER",
+      "trim": "1.6T Noir",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/63fcee841c8f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Tucson-id13961678.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Tucson-id13961678.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1660,13 +1903,16 @@
       "odometer_km": 140255,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson 2.0l Se Awdin British Columbia",
       "vin": "KM8J3CA43JU626727",
       "stock": "NUMBER",
+      "trim": "Se",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d9013b199e7d.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Tucson-id14426660.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2018-Hyundai-Tucson-id14426660.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1676,8 +1922,10 @@
       "odometer_km": 140460,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson 2.0l Se Awdin British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson ",
@@ -1693,7 +1941,9 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -1709,7 +1959,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Forte ",
@@ -1725,7 +1977,9 @@
       "year": 2018,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Eclipse Cross ",
@@ -1740,7 +1994,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Outlander PHEV ",
@@ -1756,7 +2012,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Micra ",
@@ -1772,7 +2030,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -1788,7 +2048,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Qashqai ",
@@ -1804,7 +2066,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue ",
@@ -1820,7 +2084,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Titan ",
@@ -1835,7 +2101,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Titan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -1850,7 +2118,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Crosstrek ",
@@ -1866,7 +2136,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Highlander ",
@@ -1882,7 +2154,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Atlas ",
@@ -1898,7 +2172,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -1914,7 +2190,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Acura RDX ",
@@ -1930,7 +2208,9 @@
       "year": 2019,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Equinox ",
@@ -1946,7 +2226,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan ",
@@ -1962,7 +2244,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Edge ",
@@ -1977,7 +2261,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape ",
@@ -1992,7 +2278,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Fusion Hybrid ",
@@ -2008,7 +2296,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Fusion Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Acadia ",
@@ -2023,7 +2313,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Terrain ",
@@ -2039,7 +2331,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -2054,7 +2348,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda HR-V ",
@@ -2070,13 +2366,16 @@
       "year": 2019,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Accent Preferred! Hatchin British Columbia",
       "vin": "3KPC25A31KE045844",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a71b5762f5f8.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Accent-id14213470.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Accent-id14213470.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2086,8 +2385,10 @@
       "odometer_km": 90413,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Accent Preferred! Hatchin British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Accent ",
@@ -2103,7 +2404,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai IONIQ Electric ",
@@ -2119,7 +2422,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "IONIQ Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe ",
@@ -2135,13 +2440,16 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata PRICED TO GO!! 2.4L Essential w/Sport Pkg SUNROOF! BACKUP CAMERA! BLUETOOTH! LEATHER INTERIOR!in British Columbia",
       "vin": "5NPE34AF1KH769569",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "PRICED TO GO",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/12bcb893824f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Sonata-id13828703.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Sonata-id13828703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2151,14 +2459,17 @@
       "odometer_km": 73911,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Sonata PRICED TO GO!! 2.4L Essential w/Sport Pkg SUNROOF! BACKUP CAMERA! BLUETOOTH! LEATHER INTERIOR!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
       "vin": "5NPE34AF8KH785543",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/13b914368e7f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Sonata-id13966884.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Sonata-id13966884.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2168,8 +2479,10 @@
       "odometer_km": 97366,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata ",
@@ -2185,13 +2498,16 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson Ultimate | AWD | Heated & Ventilated Seats | Remote Keyless Entry | Bluetooth | LED Headlightsin British Columbia",
       "vin": "KM8J3CAL7KU873922",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/2f1e2b55718f.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Tucson-id14140895.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2019-Hyundai-Tucson-id14140895.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2201,8 +2517,10 @@
       "odometer_km": 149782,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson Ultimate",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson ",
@@ -2218,7 +2536,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Veloster ",
@@ -2234,7 +2554,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Veloster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jaguar E-PACE ",
@@ -2250,7 +2572,9 @@
       "year": 2019,
       "make": "Jaguar",
       "model": "E-PACE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -2266,7 +2590,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Grand Cherokee ",
@@ -2281,7 +2607,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -2297,7 +2625,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte ",
@@ -2313,7 +2643,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -2329,7 +2661,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Altima ",
@@ -2345,7 +2679,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -2360,7 +2696,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Micra ",
@@ -2376,7 +2714,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Pathfinder ",
@@ -2392,7 +2732,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Qashqai ",
@@ -2408,7 +2750,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Rogue ",
@@ -2424,7 +2768,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Sentra ",
@@ -2440,7 +2786,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -2456,7 +2804,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent ",
@@ -2471,7 +2821,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Prius Prime ",
@@ -2487,7 +2839,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -2503,7 +2857,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan ",
@@ -2518,7 +2874,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo S60 ",
@@ -2534,7 +2892,9 @@
       "year": 2019,
       "make": "Volvo",
       "model": "S60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo XC40 ",
@@ -2550,7 +2910,9 @@
       "year": 2019,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Spark ",
@@ -2566,7 +2928,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Grand Caravan ",
@@ -2582,7 +2946,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Edge ",
@@ -2598,7 +2964,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -2614,7 +2982,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -2630,7 +3000,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V ",
@@ -2646,7 +3018,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Accent ",
@@ -2662,13 +3036,16 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona Preferred | AWD | Remote Keyless Entry | Heated Seats | Apple CarPlay & Android Autoin British Columbia",
       "vin": "KM8K2CAAXLU507749",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/95564b4b554e.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Kona-id14171955.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Kona-id14171955.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2678,8 +3055,10 @@
       "odometer_km": 103304,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Kona Preferred",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona ",
@@ -2695,7 +3074,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona Electric ",
@@ -2711,7 +3092,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Palisade ",
@@ -2727,13 +3110,16 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe 2.4L Essential AWD w/Safety Package! BLUETOOTH! BACK UP CAMERA! HEATED FRONT SEATS! TOUCHSCREEN!in British Columbia",
       "vin": "5NMS2CAD1LH208379",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9b4c9af86a11.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Santa_Fe-id12961083.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Santa_Fe-id12961083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2743,8 +3129,10 @@
       "odometer_km": 136323,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Santa Fe 2.4L Essential AWD w/Safety Package! BLUETOOTH! BACK UP CAMERA! HEATED FRONT SEATS! TOUCHSCREEN!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe ",
@@ -2760,12 +3148,15 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Tucson 2020 Essential - smart value, smooth driving, and ready for every journey.in British Columbia",
       "vin": "KM8J23A49LU159626",
       "stock": "NUMBER",
+      "trim": "2020 Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3872dbe9bce9.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Tucson-id14097177.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Tucson-id14097177.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2775,8 +3166,10 @@
       "odometer_km": 117959,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Tucson 2020 Essential - smart value, smooth driving, and ready for every journey.in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Tucson ",
@@ -2792,12 +3185,15 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Veloster 2020 Luxury - sporty style, premium comfort, and fun in every curve.in British Columbia",
       "vin": "KMHTG6AF2LU023805",
       "stock": "NUMBER",
+      "trim": "2020 Luxury",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fec9d5871336.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Veloster-id14121565.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2020-Hyundai-Veloster-id14121565.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2807,8 +3203,10 @@
       "odometer_km": 153705,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Veloster 2020 Luxury - sporty style, premium comfort, and fun in every curve.in British Columbia",
-      "condition": "used"
+      "model": "Veloster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Veloster ",
@@ -2823,7 +3221,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Veloster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Compass ",
@@ -2839,7 +3239,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler ",
@@ -2855,7 +3257,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Forte ",
@@ -2871,7 +3275,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sedona ",
@@ -2887,7 +3293,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sedona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sorento ",
@@ -2903,13 +3311,16 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus NX 300 ",
       "vin": "JTJSARDZ9L5016818",
       "stock": 14413404,
       "color": "Silver",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e7c6313520bf.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2020-Lexus-NX_300.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2020-Lexus-NX_300.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2918,8 +3329,10 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Lexus",
-      "model": "NX 300",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Murano ",
@@ -2935,7 +3348,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Rogue ",
@@ -2951,7 +3366,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 ",
@@ -2967,7 +3384,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 2500 ",
@@ -2983,7 +3402,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Forester ",
@@ -2999,7 +3420,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Audi Q7 ",
@@ -3014,7 +3437,9 @@
       "year": 2021,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X7 ",
@@ -3029,7 +3454,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Camaro ",
@@ -3045,7 +3472,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Camaro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -3061,7 +3490,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 ",
@@ -3077,7 +3508,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Trax ",
@@ -3093,7 +3526,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Dodge Challenger ",
@@ -3109,7 +3544,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Dodge Charger ",
@@ -3125,7 +3562,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Bronco ",
@@ -3141,7 +3580,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape ",
@@ -3156,7 +3597,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Sierra 1500 ",
@@ -3172,7 +3615,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon ",
@@ -3188,7 +3633,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Genesis G70 ",
@@ -3203,7 +3650,9 @@
       "year": 2021,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Genesis GV80 ",
@@ -3218,7 +3667,9 @@
       "year": 2021,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Elantra ",
@@ -3234,7 +3685,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Kona ",
@@ -3250,7 +3703,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe ",
@@ -3266,7 +3721,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Sonata ",
@@ -3282,7 +3739,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Tucson ",
@@ -3298,7 +3757,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee ",
@@ -3314,7 +3775,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Compass ",
@@ -3330,7 +3793,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -3346,7 +3811,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -3362,13 +3829,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler 4xe ",
       "vin": "1C4JJXP63MW709142",
       "stock": 14191886,
       "color": "Grey",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ac419505ce34.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2021-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2021-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3377,8 +3847,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Forte ",
@@ -3394,7 +3866,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Seltos ",
@@ -3410,7 +3884,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sorento ",
@@ -3425,7 +3901,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage ",
@@ -3441,7 +3919,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-5 ",
@@ -3456,7 +3936,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -3472,7 +3954,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue ",
@@ -3488,7 +3972,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -3504,7 +3990,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -3520,7 +4008,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Forester ",
@@ -3535,7 +4025,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Camry ",
@@ -3551,7 +4043,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 ",
@@ -3567,7 +4061,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tacoma ",
@@ -3583,7 +4079,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta ",
@@ -3598,7 +4096,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Tiguan ",
@@ -3614,7 +4114,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volvo XC60 ",
@@ -3630,7 +4132,9 @@
       "year": 2021,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox ",
@@ -3646,7 +4150,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Malibu ",
@@ -3662,7 +4168,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Spark ",
@@ -3678,7 +4186,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Trax ",
@@ -3694,7 +4204,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -3709,7 +4221,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Challenger ",
@@ -3725,7 +4239,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Edge ",
@@ -3741,7 +4257,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -3756,7 +4274,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape Hybrid ",
@@ -3772,7 +4292,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape Plug-in Hybrid ",
@@ -3788,7 +4310,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape Plug-in Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Expedition ",
@@ -3804,13 +4328,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5NEE54300",
       "stock": 14359517,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/47f451313207.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2022-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2022-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3819,8 +4346,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Genesis G70 ",
@@ -3836,7 +4365,9 @@
       "year": 2022,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Accord Sedan ",
@@ -3852,7 +4383,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Ridgeline ",
@@ -3868,13 +4401,16 @@
       "year": 2022,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra Essential IVT HEATED SEATS! BACKUP CAMERA! LOW KMS!in British Columbia",
       "vin": "KMHLM4AG8NU345941",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential IVT HEATED SEATS",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/bf875451cb72.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2022-Hyundai-Elantra-id14033925.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2022-Hyundai-Elantra-id14033925.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3884,8 +4420,10 @@
       "odometer_km": 47518,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT HEATED SEATS! BACKUP CAMERA! LOW KMS!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra ",
@@ -3901,7 +4439,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai IONIQ 5 ",
@@ -3917,7 +4457,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Kona ",
@@ -3933,7 +4475,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Kona Electric ",
@@ -3948,7 +4492,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Palisade ",
@@ -3964,7 +4510,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Santa Fe ",
@@ -3980,7 +4528,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson ",
@@ -3996,7 +4546,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Infiniti QX55 ",
@@ -4012,7 +4564,9 @@
       "year": 2022,
       "make": "Infiniti",
       "model": "QX55",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass ",
@@ -4028,7 +4582,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Gladiator ",
@@ -4044,7 +4600,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -4060,7 +4618,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -4076,7 +4636,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Forte ",
@@ -4092,7 +4654,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Rio ",
@@ -4108,7 +4672,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -4124,7 +4690,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul ",
@@ -4140,7 +4708,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Corsair ",
@@ -4156,7 +4726,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Corsair",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Eclipse Cross ",
@@ -4172,7 +4744,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -4188,7 +4762,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan LEAF ",
@@ -4204,7 +4780,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -4220,7 +4798,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -4236,7 +4816,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 ",
@@ -4252,7 +4834,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -4268,7 +4852,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla ",
@@ -4284,7 +4870,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 ",
@@ -4299,7 +4887,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q5 ",
@@ -4315,7 +4905,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q7 ",
@@ -4331,7 +4923,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X1 ",
@@ -4347,7 +4941,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Malibu ",
@@ -4362,7 +4958,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 ",
@@ -4378,7 +4976,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer ",
@@ -4394,7 +4994,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Traverse ",
@@ -4410,7 +5012,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -4426,7 +5030,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Ford E-series ",
@@ -4441,7 +5047,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "E-series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape Hybrid ",
@@ -4457,7 +5065,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -4473,7 +5083,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Acadia ",
@@ -4489,7 +5101,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Terrain ",
@@ -4505,7 +5119,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon XL ",
@@ -4521,7 +5137,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis G70 ",
@@ -4536,7 +5154,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV60 ",
@@ -4552,7 +5172,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV70 ",
@@ -4568,7 +5190,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV80 ",
@@ -4584,7 +5208,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra ",
@@ -4599,7 +5225,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra Hybrid ",
@@ -4615,7 +5243,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona ",
@@ -4631,7 +5261,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Cruz ",
@@ -4647,7 +5279,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -4663,7 +5297,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Sonata ",
@@ -4679,7 +5315,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson ",
@@ -4695,7 +5333,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson Hybrid ",
@@ -4711,7 +5351,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Venue ",
@@ -4726,7 +5368,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee ",
@@ -4742,7 +5386,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Compass ",
@@ -4757,7 +5403,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Wagoneer ",
@@ -4773,12 +5421,15 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler 2 Door ",
       "vin": "1C4HJXAG1PW601655",
       "stock": 14191888,
+      "trim": "2 Door",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fe724b8a3d44.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2023-Jeep-Wrangler_2_Door.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2023-Jeep-Wrangler_2_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4787,14 +5438,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler 2 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler 4 Door ",
       "vin": "1C4HJXEN0PW626569",
       "stock": 13682791,
       "color": "White",
+      "trim": "4 Door",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/bc6115c793ec.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2023-Jeep-Wrangler_4_Door.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2023-Jeep-Wrangler_4_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4803,8 +5457,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler 4 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -4820,7 +5476,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Niro EV ",
@@ -4836,7 +5494,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos ",
@@ -4852,7 +5512,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sorento ",
@@ -4867,7 +5529,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul ",
@@ -4883,7 +5547,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -4899,7 +5565,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Stinger ",
@@ -4915,7 +5583,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Stinger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Telluride ",
@@ -4931,7 +5601,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-50 ",
@@ -4947,7 +5619,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Outlander ",
@@ -4963,7 +5637,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Outlander PHEV ",
@@ -4978,7 +5654,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Kicks ",
@@ -4994,7 +5672,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Pathfinder ",
@@ -5010,7 +5690,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Sentra ",
@@ -5025,7 +5707,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -5041,7 +5725,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -5057,7 +5743,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -5073,7 +5761,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback ",
@@ -5089,7 +5779,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -5104,7 +5796,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tundra Hybrid ",
@@ -5120,7 +5814,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tundra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Taos ",
@@ -5135,7 +5831,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -5151,7 +5849,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Cadillac XT6 ",
@@ -5167,7 +5867,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica ",
@@ -5183,7 +5885,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -5199,7 +5903,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -5215,7 +5921,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Ranger ",
@@ -5231,13 +5939,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM0REC24162",
       "stock": 14089521,
       "color": "Black",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4b3ee82f4e21.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2024-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5246,8 +5957,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain ",
@@ -5262,7 +5975,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV70 ",
@@ -5278,7 +5993,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV80 ",
@@ -5294,7 +6011,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra ",
@@ -5310,7 +6029,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai IONIQ 5 ",
@@ -5325,7 +6046,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona ",
@@ -5341,7 +6064,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Electric ",
@@ -5357,7 +6082,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Palisade ",
@@ -5373,7 +6100,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe ",
@@ -5389,7 +6118,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson ",
@@ -5405,7 +6136,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Hybrid ",
@@ -5420,7 +6153,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Venue ",
@@ -5436,7 +6171,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass ",
@@ -5452,7 +6189,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -5468,7 +6207,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -5483,13 +6224,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 2 Door ",
       "vin": "1C4PJXCG7RW164952",
       "stock": 13953408,
       "color": "Dark blue",
+      "trim": "2 Door",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/510dbf6e134e.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2024-Jeep-Wrangler_2_Door.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Jeep-Wrangler_2_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5498,14 +6242,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 2 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe ",
       "vin": "1C4RJXN64RW220097",
       "stock": 14248224,
       "color": "Green",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/33b3d6a5c70b.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2024-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2024-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5514,8 +6261,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte ",
@@ -5531,7 +6280,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos ",
@@ -5547,7 +6298,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -5563,7 +6316,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Telluride ",
@@ -5579,7 +6334,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 ",
@@ -5594,7 +6351,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-50 ",
@@ -5610,7 +6369,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda MX-5 ",
@@ -5626,7 +6387,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "MX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -5642,7 +6405,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV ",
@@ -5658,7 +6423,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -5674,7 +6441,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Armada ",
@@ -5690,7 +6459,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
@@ -5706,7 +6477,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -5722,7 +6495,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Pathfinder ",
@@ -5738,7 +6513,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -5753,7 +6530,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa ",
@@ -5769,7 +6548,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Hybrid ",
@@ -5785,7 +6566,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 Plug-In Hybrid ",
@@ -5801,7 +6584,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -5816,7 +6601,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas ",
@@ -5832,7 +6619,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -5848,7 +6637,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -5864,7 +6655,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volvo XC90 ",
@@ -5880,7 +6673,9 @@
       "year": 2024,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X2 ",
@@ -5895,7 +6690,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Encore GX ",
@@ -5911,7 +6708,9 @@
       "year": 2025,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Envista ",
@@ -5926,7 +6725,9 @@
       "year": 2025,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Colorado ",
@@ -5942,7 +6743,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -5958,7 +6761,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -5974,7 +6779,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -5990,7 +6797,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -6005,7 +6814,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -6021,7 +6832,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -6037,7 +6850,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Mustang ",
@@ -6053,7 +6868,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra 3500 ",
@@ -6069,7 +6886,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra EV ",
@@ -6085,7 +6904,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis G80 ",
@@ -6100,7 +6921,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV70 ",
@@ -6116,7 +6939,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV80 ",
@@ -6132,7 +6957,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -6148,7 +6975,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic ",
@@ -6164,7 +6993,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -6180,7 +7011,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra ",
@@ -6196,7 +7029,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -6212,7 +7047,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Palisade ",
@@ -6228,7 +7065,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Cruz ",
@@ -6244,7 +7083,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe ",
@@ -6260,7 +7101,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson ",
@@ -6276,7 +7119,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson Hybrid ",
@@ -6292,7 +7137,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -6308,13 +7155,16 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler 4 Door ",
       "vin": "1C4PJXEN4SW565800",
       "stock": 14199958,
       "color": "White",
+      "trim": "4 Door",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4e61c6fc064b.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2025-Jeep-Wrangler_4_Door.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2025-Jeep-Wrangler_4_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6323,8 +7173,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Jeep",
-      "model": "Wrangler 4 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -6340,7 +7192,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos ",
@@ -6356,7 +7210,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sorento ",
@@ -6372,7 +7228,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -6388,7 +7246,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -6404,7 +7264,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -6420,7 +7282,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -6435,7 +7299,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Frontier ",
@@ -6451,7 +7317,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -6467,13 +7335,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV5SL487539",
       "stock": 14025070,
       "color": "White",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/883dcb280f07.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6482,8 +7353,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -6499,7 +7372,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -6514,7 +7389,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -6530,13 +7407,16 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVCG0SE539454",
       "stock": 14140655,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c26f1738acd9.html",
       "source_url": "https://www.mapleridgehyundai.com/used/2025-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.mapleridgehyundai.com/used/2025-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6545,8 +7425,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester ",
@@ -6562,7 +7444,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -6578,7 +7462,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -6594,7 +7480,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -6610,7 +7498,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Audi SQ5 ",
@@ -6626,7 +7516,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "SQ5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -6642,7 +7534,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -6658,7 +7552,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -6674,7 +7570,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -6689,7 +7587,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis G70 ",
@@ -6705,7 +7605,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -6721,7 +7623,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis GV80 ",
@@ -6737,7 +7641,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -6753,7 +7659,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -6769,7 +7677,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -6785,7 +7695,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid ",
@@ -6799,13 +7711,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK1TU038361",
       "stock": 13296554,
       "color": "White",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c6123306f39e.html",
       "source_url": "https://www.mapleridgehyundai.com/new/2026-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/2026-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6814,8 +7729,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 ",
@@ -6831,7 +7748,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -6847,7 +7766,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -6863,7 +7784,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -6879,7 +7802,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -6895,7 +7820,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -6911,7 +7838,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -6927,7 +7856,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -6943,7 +7874,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -6959,7 +7892,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -6975,7 +7910,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -6991,7 +7928,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -7007,7 +7946,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -7023,7 +7964,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -7039,7 +7982,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -7055,7 +8000,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -7071,7 +8018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -7087,7 +8036,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -7103,7 +8054,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -7119,7 +8072,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid ",
@@ -7133,13 +8088,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DK1TU038361",
       "stock": 13296554,
       "color": "White",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c6123306f39e.html",
       "source_url": "https://www.mapleridgehyundai.com/new/2026-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/2026-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7148,8 +8106,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5 ",
@@ -7165,7 +8125,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -7181,7 +8143,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -7197,7 +8161,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -7213,7 +8179,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -7229,7 +8197,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -7245,7 +8215,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -7261,7 +8233,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -7277,7 +8251,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -7293,7 +8269,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -7309,7 +8287,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -7325,7 +8305,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -7341,13 +8323,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DGXTU132031",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/85ccdee5bab8.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id13242858.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id13242858.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7356,14 +8341,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N Line Ultimatein British Columbia",
       "vin": "KMHLR4DFXTU273898",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/6f44296e3f29.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14205127.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14205127.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7372,14 +8360,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N Line Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N Line Ultimatein British Columbia",
       "vin": "KMHLR4DF1TU274907",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/6167caaffad6.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14210520.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14210520.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7388,14 +8379,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N Line Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxuryin British Columbia",
       "vin": "KMHLN4DGXTU277955",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/9b64686c3bf0.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14215841.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14215841.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7404,14 +8398,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxuryin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N Line Ultimatein British Columbia",
       "vin": "KMHLR4DF0TU291665",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "N Line Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/50225b9ac642.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14272508.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14272508.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7420,14 +8417,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N Line Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxuryin British Columbia",
       "vin": "KMHLN4DG2TU277898",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/85b041a692a1.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14313617.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14313617.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7436,14 +8436,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxuryin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG7TU297860",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/a5f647c323f7.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14432433.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Elantra-id14432433.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7452,14 +8455,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB0TU496454",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/09b39ae3b453.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14078310.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14078310.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7468,14 +8474,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCABXTU441154",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/53f966b34e4c.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14109588.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14109588.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7484,14 +8493,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB1TU498035",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c98b5c3b08d7.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14199800.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14199800.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7500,14 +8512,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB5TU387021",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/6c21390778aa.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14279347.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Kona-id14279347.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7516,14 +8531,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "3KMJBCDE0TE037158",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/317d462eb9e7.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id13322144.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id13322144.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7532,14 +8550,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "3KMJBCDE7TE038548",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/bc452f420099.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id13480108.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id13480108.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7548,14 +8569,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "KM8JBCDE7TU492508",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/eafe8266e880.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14236761.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14236761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7564,14 +8588,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "KM8JBCDE2TU495798",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c7939c6fdbda.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14272504.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14272504.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7580,14 +8607,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "KM8JBCDE1TU495887",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/51698020464b.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14292269.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14292269.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7596,14 +8626,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "KM8JBCDE3TU494630",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c698c60189fc.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14320067.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14320067.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7612,14 +8645,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin British Columbia",
       "vin": "KM8JBCDE1TU494853",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/3b702a657c31.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14359376.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Tucson-id14359376.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7628,14 +8664,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin British Columbia",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin British Columbia",
       "vin": "KMHRC8A31TU485098",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/2558bade534b.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14078317.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14078317.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7644,14 +8683,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Ultimatein British Columbia",
       "vin": "KMHRC8A33TU489265",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/fe03b5701bdb.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14199801.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14199801.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7660,14 +8702,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Ultimatein British Columbia",
       "vin": "KMHRC8A32TU483571",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/81bb084a2fd3.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14199805.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14199805.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7676,14 +8721,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Ultimatein British Columbia",
       "vin": "KMHRC8A31TU489491",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/f0f53ee29003.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14210519.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14210519.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7692,14 +8740,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Ultimatein British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin British Columbia",
       "vin": "KMHRC8A30TU498229",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/72b711f803e0.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432429.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432429.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7708,14 +8759,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin British Columbia",
       "vin": "KMHRC8A35TU498095",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/bf640faf28c3.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432432.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432432.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7724,14 +8778,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin British Columbia",
       "vin": "KMHRC8A38TU499032",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/96c67aae02df.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432434.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2026-Hyundai-Venue-id14432434.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7740,8 +8797,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos ",
@@ -7757,7 +8816,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -7773,7 +8834,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage HEV ",
@@ -7789,7 +8852,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage HEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -7805,7 +8870,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -7821,7 +8888,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -7837,7 +8906,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -7853,7 +8924,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Electric ",
@@ -7869,7 +8942,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade ",
@@ -7885,7 +8960,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -7901,7 +8978,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ",
@@ -7917,7 +8996,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -7933,7 +9014,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -7949,7 +9032,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Electric ",
@@ -7965,7 +9050,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade ",
@@ -7981,7 +9068,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -7997,7 +9086,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ",
@@ -8013,13 +9104,16 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB3VU513573",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/8ec4db1382d5.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14242885.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14242885.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8028,14 +9122,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB1VU521879",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/23fdf85b7e3c.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14272501.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14272501.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8044,14 +9141,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB0VU522439",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/d5ae9842b209.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14272509.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14272509.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8060,14 +9160,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB5VU522002",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/ebf4f6607963.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14292268.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14292268.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8076,14 +9179,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HCCAB3VU522449",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/e797d55ce296.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14292270.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14292270.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8092,14 +9198,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Preferredin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACABXVU514922",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/5e8afc558c4d.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14370971.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14370971.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8108,14 +9217,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACAB3VU516608",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/38c8e959262b.html",
       "source_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14379378.html",
       "dealer_url": "https://www.mapleridgehyundai.com/new/inventory/2027-Hyundai-Kona-id14379378.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8124,8 +9236,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     }
   ]
 }
