@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Hyundai",
-  "generated_at": "2026-11-17T01:19:05",
-  "vehicle_count": 496,
+  "generated_at": "2026-11-17T01:27:30",
+  "vehicle_count": 497,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4711,36 +4711,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Elantra Preferredin British Columbia",
-      "vin": "KMHLM4DG7TU297860",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/a5f647c323f7.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 29749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Elantra Preferredin British Columbia",
-      "vin": "KMHLM4DG9TU299965",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/bbf997ba70e1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 27549.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
-      "vin": "KMHLN4DJ2TU225456",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/8c6ed524cdf5.html",
+      "vin": "KMHLN4DJ4TU225765",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/896183ad61fb.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
       "price": 34249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
+      "vin": "KMHLN4DJ5TU226245",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/7ac931874151.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 34249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
+      "vin": "KMHLN4DJ1TU227599",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c8fc7a208301.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 33899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
+      "vin": "KMHLN4DJXTU227570",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/c4b3fea19ae4.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 33899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
+      "vin": "KMHLN4DJ8TU227597",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/5bb3190b53e9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 33899.0,
       "price_currency": "CAD"
     },
     {
@@ -4763,39 +4785,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 36249.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Tucson Preferredin British Columbia",
-      "vin": "3KMJBCDE7TE038548",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/bc452f420099.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 37399.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Tucson Preferredin British Columbia",
-      "vin": "KM8JBCDE1TU494853",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/3b702a657c31.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 37699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Tucson Preferredin British Columbia",
-      "vin": "KM8JBCDE3TU498046",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/0579ecf2ebdb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 37699.0,
       "price_currency": "CAD"
     },
     {
@@ -4862,6 +4851,17 @@
       "model": "Venue",
       "condition": "new",
       "price": 24549.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Venue Ultimatein British Columbia",
+      "vin": "KMHRC8A3XTU501833",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/072212a3eca3.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 28799.0,
       "price_currency": "CAD"
     },
     {
@@ -4986,28 +4986,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
-      "vin": "KM8HCCAB5VU522002",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/ebf4f6607963.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
-      "vin": "KM8HCCAB3VU522449",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/e797d55ce296.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36949.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACABXVU514922",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/5e8afc558c4d.html",
@@ -5027,17 +5005,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
-      "vin": "KM8HCCAB2VU532650",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/925180d34bc8.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36949.0,
       "price_currency": "CAD"
     },
     {
@@ -5097,17 +5064,6 @@
     },
     {
       "name": "New 2027 Hyundai Kona Preferredin British Columbia",
-      "vin": "KM8HCCABXVU532671",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/644783a0b948.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HBCAB9VU531112",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/81c9349d730d.html",
       "year": 2027,
@@ -5115,6 +5071,61 @@
       "model": "Kona",
       "condition": "new",
       "price": 34499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
+      "vin": "KM8HBCAB0VU533489",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/74cde80186ce.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 34149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Essentialin British Columbia",
+      "vin": "KM8HACABXVU531963",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/f6f55a7eef52.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 31999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Essentialin British Columbia",
+      "vin": "KM8HACABXVU540775",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/8a850746887a.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 31649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
+      "vin": "KM8HCCAB7VU541263",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/65b5979f2b87.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Essentialin British Columbia",
+      "vin": "KM8HA3AB9VU536524",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/790b9bc617dd.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 29649.0,
       "price_currency": "CAD"
     }
   ]
