@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Hyundai",
-  "generated_at": "2026-11-17T21:38:31",
-  "vehicle_count": 507,
+  "generated_at": "2026-11-18T07:06:40",
+  "vehicle_count": 510,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -137,14 +137,6 @@
       "name": "Chevrolet Cruze 2018 for salein British Columbia",
       "vin": "3G1BF6SM8JS627526",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c9ac3341c61c.html",
-      "condition": "used",
-      "price": 16904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Chrysler Pacifica 2018 for salein British Columbia",
-      "vin": "2C4RC1EG1JR173883",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c9c6975a1e4c.html",
       "condition": "used",
       "price": 16904.0,
       "price_currency": "CAD"
@@ -436,6 +428,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Sonata 2021 for salein British Columbia",
+      "vin": "5NPEG4JA0MH072342",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/deb8a66ae742.html",
+      "condition": "used",
+      "price": 18904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Venue 2021 for salein British Columbia",
       "vin": "KMHRC8A35MU090150",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fe4a2b31f073.html",
@@ -492,6 +492,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 Classic 2021 for salein British Columbia",
+      "vin": "3C6RR7KTXMG548478",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b19cffa60529.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Tesla Model Y 2021 for salein British Columbia",
       "vin": "5YJYGDEE8MF229916",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/178b9a80386e.html",
@@ -524,6 +532,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda CR-V 2022 for salein British Columbia",
+      "vin": "2HKRW2H99NH219120",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/80610f3a86f2.html",
+      "condition": "used",
+      "price": 36904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Odyssey 2022 for salein British Columbia",
       "vin": "5FNRL6H65NB503221",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3bac623c3a6f.html",
@@ -537,6 +553,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fd3a8241d83e.html",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2022 for salein British Columbia",
+      "vin": "KMHRC8A3XNU189953",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/cad4b9571027.html",
+      "condition": "used",
+      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
@@ -601,14 +625,6 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/86941344d92f.html",
       "condition": "used",
       "price": 51404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford Escape Hybrid 2023 for salein British Columbia",
-      "vin": "1FMCU0E19PUA55841",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9eda3bfb6077.html",
-      "condition": "used",
-      "price": 29904.0,
       "price_currency": "CAD"
     },
     {
@@ -884,6 +900,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chrysler Pacifica 2024 for salein British Columbia",
+      "vin": "2C4RC3BG5RR193775",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/aea208077f3f.html",
+      "condition": "used",
+      "price": 45904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2024 for salein British Columbia",
+      "vin": "1C4RDJDG1RC241649",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/65f281ef2395.html",
+      "condition": "used",
+      "price": 42797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein British Columbia",
+      "vin": "1FMDE7BH7RLB38995",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/78e5be9c9a1b.html",
+      "condition": "used",
+      "price": 45904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2024 for salein British Columbia",
+      "vin": "1FT8W3BM0REC24162",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4b3ee82f4e21.html",
+      "condition": "used",
+      "price": 97904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis GV70 2024 for salein British Columbia",
+      "vin": "KMUMAET1XRU007363",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e056eb156ae6.html",
+      "condition": "used",
+      "price": 59404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2024 for salein British Columbia",
+      "vin": "KMHLM4DG5RU727930",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/f936b5a02c04.html",
+      "condition": "used",
+      "price": 22904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra Hybrid 2024 for salein British Columbia",
       "vin": "KMHLN4DJ7RU097353",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/0257dab73d4c.html",
@@ -892,11 +956,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai IONIQ 5 2024 for salein British Columbia",
+      "vin": "KM8KN4DE3RU237915",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/bc8c1e53a21a.html",
+      "condition": "used",
+      "price": 39627.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2024 for salein British Columbia",
+      "vin": "KM8HACAB9RU045831",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ad0d200e1662.html",
+      "condition": "used",
+      "price": 24904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2024 for salein British Columbia",
+      "vin": "KM8HE3A68RU015016",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/7129450ced6c.html",
+      "condition": "used",
+      "price": 33408.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2024 for salein British Columbia",
+      "vin": "KM8R3DGE2RU780883",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/634ec387a091.html",
+      "condition": "used",
+      "price": 44904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2024 for salein British Columbia",
+      "vin": "5NMP4DGL0RH014181",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3e5258ceec94.html",
+      "condition": "used",
+      "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2024 for salein British Columbia",
+      "vin": "KM8JBCDE8RU322005",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b5fe6eb5abef.html",
+      "condition": "used",
+      "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Tucson Hybrid 2024 for salein British Columbia",
       "vin": "KM8JCCD1XRU182095",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a354d7dbbf2b.html",
       "condition": "used",
       "price": 37904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2024 for salein British Columbia",
+      "vin": "KMHRC8A39RU301406",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4209da25cef3.html",
+      "condition": "used",
+      "price": 17904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2024 for salein British Columbia",
+      "vin": "1C4RJHBG1RC205321",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/21aabf27c9d3.html",
+      "condition": "used",
+      "price": 36878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2024 for salein British Columbia",
+      "vin": "1C4RJXN64RW220097",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/33b3d6a5c70b.html",
+      "condition": "used",
+      "price": 42904.0,
       "price_currency": "CAD"
     },
     {
@@ -921,6 +1057,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c1816ed84707.html",
       "condition": "used",
       "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2024 for salein British Columbia",
+      "vin": "1C6SRFVT3RN114408",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/90d8c4414cca.html",
+      "condition": "used",
+      "price": 55904.0,
       "price_currency": "CAD"
     },
     {
@@ -1060,6 +1204,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Jetta 2025 for salein British Columbia",
+      "vin": "3VWCX7BU4SM094074",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/10f9d960dcd8.html",
+      "condition": "used",
+      "price": 25904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Blazer 2026 for salein British Columbia",
       "vin": "3GNKBKRS0TS123479",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4ea63d39ba9b.html",
@@ -1100,19 +1252,19 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Sedan 2026 for salein British Columbia",
+      "vin": "2HGFE2F24TH110387",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/906411d06af9.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda CX-90 MHEV 2026 for salein British Columbia",
       "vin": "JM3KKCHD3T1378413",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9f5c8eda647a.html",
       "condition": "used",
       "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Corolla 2026 for salein British Columbia",
-      "vin": "JTDBCMFE2T3143903",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/73673a91a6d6.html",
-      "condition": "used",
-      "price": 36904.0,
       "price_currency": "CAD"
     },
     {
@@ -1943,17 +2095,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Sonata Sportin British Columbia",
-      "vin": "5NPE34AF3JH640666",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/90453893bbb2.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used",
-      "price": 12727.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Hyundai Sonata ",
       "vin": "5NPE34AF3JH640666",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b49159ef94a3.html",
@@ -2625,6 +2766,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Hyundai Kona Essentialin British Columbia",
+      "vin": "KM8K1CAA2LU458226",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a16ae6185264.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 18827.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Hyundai Kona ",
       "vin": "KM8K6CAA0LU433066",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/5cd575fff27a.html",
@@ -2853,17 +3005,6 @@
       "model": "Malibu",
       "condition": "used",
       "price": 16907.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYBEF6MZ152109",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4e1465d02d06.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 39404.0,
       "price_currency": "CAD"
     },
     {
@@ -3615,39 +3756,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chrysler Pacifica ",
-      "vin": "2C4RC3BG5RR193775",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/aea208077f3f.html",
-      "year": 2024,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 46904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Durango ",
-      "vin": "1C4RDJDG8RC167176",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/65f281ef2395.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 39904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BH7RLB38995",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/78e5be9c9a1b.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Bronco Sport ",
       "vin": "3FMCR9D94RRF15494",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ed30ec1da35f.html",
@@ -3681,17 +3789,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BM0REC24162",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4b3ee82f4e21.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 100904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 GMC Terrain ",
       "vin": "3GKALTEG8RL332209",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ab80ec93ac6c.html",
@@ -3703,94 +3800,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Genesis GV70 ",
-      "vin": "KMUMAET14RU007553",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e056eb156ae6.html",
-      "year": 2024,
-      "make": "Genesis",
-      "model": "GV70",
-      "condition": "used",
-      "price": 50709.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Elantra ",
-      "vin": "KMHLM4DG6RU847784",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/f936b5a02c04.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 23908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai IONIQ 5 ",
-      "vin": "KM8KN4DE3RU237915",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/bc8c1e53a21a.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 39727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona ",
-      "vin": "KM8HB3AB0RU150206",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ad0d200e1662.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona Electric ",
-      "vin": "KM8HE3A68RU015016",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/7129450ced6c.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 33904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Palisade ",
-      "vin": "KM8R3DGE2RU780883",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/634ec387a091.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 47908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP4DGL0RH014181",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3e5258ceec94.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Tucson ",
-      "vin": "KM8JCCDE9RU329557",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b5fe6eb5abef.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Venue Preferred | Remote Start | Bluetooth | Heated Seats | Heated Mirrors | Back-Up Camerain British Columbia",
       "vin": "KMHRC8A39RU301406",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/71911cbc75b7.html",
@@ -3799,39 +3808,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 17904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Venue ",
-      "vin": "KMHRC8A39RU301406",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4209da25cef3.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 19404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG1RC205321",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/21aabf27c9d3.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler 4xe ",
-      "vin": "1C4RJXN64RW220097",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/33b3d6a5c70b.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 47404.0,
       "price_currency": "CAD"
     },
     {
