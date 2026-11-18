@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Hyundai",
-  "generated_at": "2026-11-17T21:33:56",
-  "vehicle_count": 506,
+  "generated_at": "2026-11-17T21:38:31",
+  "vehicle_count": 507,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4693,17 +4693,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Elantra N Line Ultimatein British Columbia",
-      "vin": "KMHLR4DF1TU274907",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/6167caaffad6.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 34749.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Elantra Luxuryin British Columbia",
       "vin": "KMHLN4DGXTU277955",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/9b64686c3bf0.html",
@@ -5141,6 +5130,28 @@
       "model": "Kona",
       "condition": "new",
       "price": 29649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
+      "vin": "KM8HCCAB0VU537636",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/686d8c1cce3c.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Preferredin British Columbia",
+      "vin": "KM8HCCAB5VU537454",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/new/74c295e9031b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36599.0,
       "price_currency": "CAD"
     }
   ]
