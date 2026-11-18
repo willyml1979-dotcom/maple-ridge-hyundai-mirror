@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Hyundai",
-  "generated_at": "2026-11-17T01:27:30",
-  "vehicle_count": 497,
+  "generated_at": "2026-11-17T21:33:56",
+  "vehicle_count": 506,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -11,6 +11,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fbc21c36b414.html",
       "condition": "used",
       "price": 9904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen New Beetle 2010 for salein British Columbia",
+      "vin": "3VWRW2AL3AM002136",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/6407fd2355cb.html",
+      "condition": "used",
+      "price": 11907.0,
       "price_currency": "CAD"
     },
     {
@@ -27,6 +35,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d9ea86e0c63c.html",
       "condition": "used",
       "price": 8407.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2015 for salein British Columbia",
+      "vin": "1FMCU0GX1FUB85547",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/83f6d0430986.html",
+      "condition": "used",
+      "price": 13904.0,
       "price_currency": "CAD"
     },
     {
@@ -67,6 +83,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b7f71d6ef1f0.html",
       "condition": "used",
       "price": 14397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Versa Note 2016 for salein British Columbia",
+      "vin": "3N1CE2CP4GL363890",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/f55c4fc7b524.html",
+      "condition": "used",
+      "price": 10904.0,
       "price_currency": "CAD"
     },
     {
@@ -134,6 +158,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Hatchback 2018 for salein British Columbia",
+      "vin": "SHHFK7H91JU304780",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d208ef25dc67.html",
+      "condition": "used",
+      "price": 21904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2018 for salein British Columbia",
+      "vin": "KMHD84LF7JU551145",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/699033a4bf2b.html",
+      "condition": "used",
+      "price": 13908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai IONIQ Hybrid 2018 for salein British Columbia",
       "vin": "KMHC75LC7JU095044",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b3e5d848ff28.html",
@@ -147,6 +187,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/3fb7e873fb05.html",
       "condition": "used",
       "price": 22904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus NX 2018 for salein British Columbia",
+      "vin": "JTJBARBZXJ2169869",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/1a70ee565aaa.html",
+      "condition": "used",
+      "price": 31651.0,
       "price_currency": "CAD"
     },
     {
@@ -201,6 +249,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d51fe5022330.html",
       "condition": "used",
       "price": 20904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX60 2019 for salein British Columbia",
+      "vin": "5N1DL0MM9KC523441",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fa74b602d4d5.html",
+      "condition": "used",
+      "price": 21709.0,
       "price_currency": "CAD"
     },
     {
@@ -265,6 +321,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/682f142a11b6.html",
       "condition": "used",
       "price": 15904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ Electric Plus 2020 for salein British Columbia",
+      "vin": "KMHC65LD7LU232711",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/01c6eb7184a8.html",
+      "condition": "used",
+      "price": 19904.0,
       "price_currency": "CAD"
     },
     {
@@ -356,14 +420,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Hyundai IONIQ Hybrid 2021 for salein British Columbia",
-      "vin": "KMHC05LCXMU251067",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/496913cfb532.html",
-      "condition": "used",
-      "price": 20904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Hyundai IONIQ Plug-In Hybrid 2021 for salein British Columbia",
       "vin": "KMHC65LD8MU261328",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/8c35fd360606.html",
@@ -401,6 +457,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/00bb483d9b2f.html",
       "condition": "used",
       "price": 60904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte5 2021 for salein British Columbia",
+      "vin": "KNAF55ACXM5097120",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/eec22857465c.html",
+      "condition": "used",
+      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -500,6 +564,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Rio5 2022 for salein British Columbia",
+      "vin": "3KPA25AD9NE486092",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ac887566945a.html",
+      "condition": "used",
+      "price": 16904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Mirage 2022 for salein British Columbia",
       "vin": "ML32AUHJ4NH006017",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/2acabd74b01b.html",
@@ -572,11 +644,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Elantra 2023 for salein British Columbia",
+      "vin": "KMHLN4AG3PU515364",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/7e5db330cd82.html",
+      "condition": "used",
+      "price": 20904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2023 for salein British Columbia",
+      "vin": "KM8K2CAB5PU969957",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e60da0ed512d.html",
+      "condition": "used",
+      "price": 23404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Palisade 2023 for salein British Columbia",
       "vin": "KM8R3DGE3PU523549",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/18a81895de38.html",
       "condition": "used",
       "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2023 for salein British Columbia",
+      "vin": "5NMS3DAJ6PH580198",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/48d33d5b2295.html",
+      "condition": "used",
+      "price": 35907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Sonata 2023 for salein British Columbia",
+      "vin": "KMHL24JA0PA296756",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/6afffabb2670.html",
+      "condition": "used",
+      "price": 25204.0,
       "price_currency": "CAD"
     },
     {
@@ -593,6 +697,22 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/1885046905ab.html",
       "condition": "used",
       "price": 26904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson Plug-In Hybrid 2023 for salein British Columbia",
+      "vin": "KM8JDDA25PU119516",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/bb1cc4e849c3.html",
+      "condition": "used",
+      "price": 35907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2023 for salein British Columbia",
+      "vin": "KMHRC8A3XPU264928",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a7f2d3229481.html",
+      "condition": "used",
+      "price": 21904.0,
       "price_currency": "CAD"
     },
     {
@@ -644,6 +764,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Sorento 2023 for salein British Columbia",
+      "vin": "5XYRGDLC1PG199306",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e44fa008dbf1.html",
+      "condition": "used",
+      "price": 27281.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2023 for salein British Columbia",
+      "vin": "KNDPUCAF0P7049594",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b2d8c885dd73.html",
+      "condition": "used",
+      "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Stinger 2023 for salein British Columbia",
+      "vin": "KNAE55LC9P6138277",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/356feae61224.html",
+      "condition": "used",
+      "price": 42797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Telluride 2023 for salein British Columbia",
+      "vin": "5XYP5DGC3PG360942",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9b2426c8fd49.html",
+      "condition": "used",
+      "price": 43797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2023 for salein British Columbia",
+      "vin": "7MMVABDY0PN148077",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ee6f03a52cb3.html",
+      "condition": "used",
+      "price": 35404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2023 for salein British Columbia",
+      "vin": "JA4J4VA81PZ605557",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/93c0991df405.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Rogue 2023 for salein British Columbia",
       "vin": "JN8BT3BB3PW189660",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d515a2e7d976.html",
@@ -652,11 +820,59 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Sentra 2023 for salein British Columbia",
+      "vin": "3N1AB8CV0PY240740",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/1f3c82716753.html",
+      "condition": "used",
+      "price": 18404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2023 for salein British Columbia",
+      "vin": "1C6SRFJT4PN516697",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/eb41757be648.html",
+      "condition": "used",
+      "price": 55267.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2023 for salein British Columbia",
+      "vin": "3C6RR7LG7PG680409",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d1e080f0a970.html",
+      "condition": "used",
+      "price": 37908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2023 for salein British Columbia",
+      "vin": "3C63R3EL8PG532116",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/f05906ab3d13.html",
+      "condition": "used",
+      "price": 63904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Subaru WRX 2023 for salein British Columbia",
       "vin": "JF1VBAA62P9814591",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/148ed7cbe1c0.html",
       "condition": "used",
       "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2023 for salein British Columbia",
+      "vin": "3VV2X7B23PM321535",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/99fe88f97c0a.html",
+      "condition": "used",
+      "price": 29727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein British Columbia",
+      "vin": "3VV8B7AX7PM040344",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/297995e78c3d.html",
+      "condition": "used",
+      "price": 28904.0,
       "price_currency": "CAD"
     },
     {
@@ -764,6 +980,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Elantra Hybrid 2025 for salein British Columbia",
+      "vin": "KMHLN4DJ0SU127623",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/18495fbd1bae.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Kona Electric 2025 for salein British Columbia",
       "vin": "KM8HE3A62SU030021",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9d73fe88ea4c.html",
@@ -777,6 +1001,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e4598751234a.html",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2025 for salein British Columbia",
+      "vin": "1C4PJXEN7SW624533",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d77d7908d1e0.html",
+      "condition": "used",
+      "price": 48904.0,
       "price_currency": "CAD"
     },
     {
@@ -825,14 +1057,6 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/962ecc3ab52b.html",
       "condition": "used",
       "price": 39908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Volkswagen ID. Buzz 2025 for salein British Columbia",
-      "vin": "WVG6YVEB0SH025717",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/448d8b1eb1fd.html",
-      "condition": "used",
-      "price": 63904.0,
       "price_currency": "CAD"
     },
     {
@@ -1004,14 +1228,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Santa Fe Sport Limitedin British Columbia",
-      "vin": "5XYZUDLA9FG244949",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e6958c88fbfd.html",
+      "name": "2015 Hyundai Santa Fe Sport SEin British Columbia",
+      "vin": "5XYZUDLA6FG243564",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/5be7a8a10923.html",
       "year": 2015,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 13908.0,
+      "price": 11904.0,
       "price_currency": "CAD"
     },
     {
@@ -1367,17 +1591,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Edge ",
-      "vin": "2FMPK4K8XHBB70374",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/c488a95e835a.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 16709.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Escape ",
       "vin": "1FMCU0GD1HUA17321",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/77e208db05d5.html",
@@ -1664,6 +1877,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Hyundai Elantra GL Auto HEATED SEATS! BLUETOOTH! BACKUP CAMERA! ONE OWNER! NO ACCIDENT!in British Columbia",
+      "vin": "KMHD84LF7JU551145",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4735d8eb1bb2.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 13908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai IONIQ Hybrid 2018 Blue - exceptional efficiency, sleek style, and more miles for your money!in British Columbia",
       "vin": "KMHC75LC7JU095044",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d20328b8dfe7.html",
@@ -1771,6 +1995,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 12904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Hyundai Tucson SEin British Columbia",
+      "vin": "KM8J3CA44JU740574",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/5a6d1b8d9e3b.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 15907.0,
       "price_currency": "CAD"
     },
     {
@@ -2214,17 +2449,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Nissan Versa Note ",
-      "vin": "3N1CE2CP4KL364532",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fd606bab1f8e.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 14904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 RAM 1500 ",
       "vin": "1C6SRFDT8KN542188",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ab8cd45a933b.html",
@@ -2398,28 +2622,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 18404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Kona 2.0L Essential AWD BACKUP CAMERA! HEATED SEATS! BLUETOOTH!in British Columbia",
-      "vin": "KM8K1CAA9LU485102",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/331a66159dd2.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 18904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Kona Essentialin British Columbia",
-      "vin": "KM8K1CAA2LU458226",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/a16ae6185264.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 18827.0,
       "price_currency": "CAD"
     },
     {
@@ -3347,39 +3549,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Elantra ",
-      "vin": "KMHLN4AG3PU515364",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/7e5db330cd82.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 21904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Kona ",
-      "vin": "KM8K2CAB5PU969957",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e60da0ed512d.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 23904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Santa Fe ",
-      "vin": "5NMS3DAJ0PH621084",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/48d33d5b2295.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 27904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Hyundai Santa Fe Hybrid ",
       "vin": "KM8S5DA11PU094803",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/745aa28a7bca.html",
@@ -3388,17 +3557,6 @@
       "model": "Santa Fe Hybrid",
       "condition": "used",
       "price": 34908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Sonata ",
-      "vin": "KMHL24JA0PA296756",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/6afffabb2670.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used",
-      "price": 26904.0,
       "price_currency": "CAD"
     },
     {
@@ -3413,39 +3571,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sorento ",
-      "vin": "5XYRGDLC1PG199306",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/e44fa008dbf1.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPUCAF0P7049594",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/b2d8c885dd73.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Telluride ",
-      "vin": "5XYP5DGC3PG360942",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/9b2426c8fd49.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Telluride",
-      "condition": "used",
-      "price": 47797.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 MINI Countryman ",
       "vin": "WMZ23BS02P3R39944",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/81ca5ea1b3dc.html",
@@ -3454,28 +3579,6 @@
       "model": "Countryman",
       "condition": "used",
       "price": 30904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-50 ",
-      "vin": "7MMVABDM1PN111469",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/ee6f03a52cb3.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 34904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mitsubishi Outlander ",
-      "vin": "JA4J4VA81PZ605557",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/93c0991df405.html",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 32904.0,
       "price_currency": "CAD"
     },
     {
@@ -3490,50 +3593,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Sentra ",
-      "vin": "3N1AB8CV0PY240740",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/1f3c82716753.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 20404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 ",
-      "vin": "1C6SRFJT2PN651824",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/eb41757be648.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 49904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 Classic ",
-      "vin": "3C6RR7LT4PG678551",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/d1e080f0a970.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 39797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 3500 ",
-      "vin": "3C63R3EL8PG532116",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/f05906ab3d13.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 65904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Volkswagen Atlas ",
       "vin": "1V2FR2CAXPC544240",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/fdeecc7d3350.html",
@@ -3542,28 +3601,6 @@
       "model": "Atlas",
       "condition": "used",
       "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VV2X7B23PM321535",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/99fe88f97c0a.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 30727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX7PM040344",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/297995e78c3d.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29904.0,
       "price_currency": "CAD"
     },
     {
@@ -4480,17 +4517,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Colorado ",
-      "vin": "1GCPTDEKXT1144080",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/4dde3a38d045.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 53904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 ",
       "vin": "2GCUKDED7T1128016",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/250a1c86dc19.html",
@@ -4587,17 +4613,6 @@
       "model": "IONIQ 9",
       "condition": "used",
       "price": 74904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona ",
-      "vin": "KM8HBCAB8TU368188",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-hyundai-mirror/used/652b2ecdf611.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 30904.0,
       "price_currency": "CAD"
     },
     {
